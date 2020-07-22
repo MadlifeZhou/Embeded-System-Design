@@ -1,4 +1,4 @@
-# Embeded-System-Design Lab4
+# Embeded-System-Design Lab3
 
 Lab3 work of HDU-ITMO Embeded System Design
 
